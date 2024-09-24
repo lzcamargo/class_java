@@ -1,0 +1,10 @@
+package garagem;
+
+public class ClasseExecutora {
+
+	public static void main(String[] args) {
+		
+	
+	}
+
+}

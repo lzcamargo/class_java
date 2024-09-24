@@ -1,0 +1,14 @@
+package quest3;
+
+public abstract class Veiculo {
+	protected float velocidade;
+	
+	public float acelerar(float velocidade) {
+		return this.velocidade; 
+	}
+	
+	public void parar() {
+		
+	}
+}
+

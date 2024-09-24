@@ -1,0 +1,10 @@
+package desafio;
+
+public class Veiculo {
+	private String placaVeiculo;
+	private String marcaVeiculo;
+	private String corVeiculo;
+	
+	
+
+}

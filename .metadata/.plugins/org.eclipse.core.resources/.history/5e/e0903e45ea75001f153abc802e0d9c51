@@ -1,0 +1,12 @@
+package exerc3;
+import java.util.Scanner;
+public class ClasseExecutora {
+
+	public static void main(String[] args) {
+		Estudante est1 = new Estudante();
+		est1.getClass();
+		est1.s
+
+	}
+
+}

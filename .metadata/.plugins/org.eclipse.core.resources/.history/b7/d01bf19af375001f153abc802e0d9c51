@@ -1,0 +1,7 @@
+package exerc4;
+
+public class Televisao {
+	private int volume;
+	private int canal
+
+}

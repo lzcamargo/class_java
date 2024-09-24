@@ -1,0 +1,8 @@
+package exerc3;
+
+public class Estudante {
+	private int matrEstudante;
+	private String nomeEstudante;
+	
+
+}

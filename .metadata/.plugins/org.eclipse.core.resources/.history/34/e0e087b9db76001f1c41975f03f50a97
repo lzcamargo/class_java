@@ -1,0 +1,6 @@
+package garagem;
+
+public class Caminhao extends Veiculo {
+	private float capacidadeCarga;
+
+}
